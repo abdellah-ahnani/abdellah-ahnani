@@ -2,7 +2,7 @@
 
 **Software Engineering | AI Systems | Quantitative Development**
 
-ENSIMAG student (Applied Mathematics & Computer Science). Building end-to-end software systems with a focus on AI engineering and quantitative methods.
+ENSIMAG student (Applied Mathematics & Computer Science). Focus on AI/ML engineering and quantitative methods.
 
 ## Projects
 
