@@ -13,12 +13,14 @@ ENSIMAG student (Applied Mathematics & Computer Science). Building end-to-end so
 
 ## Competitions
 
-- **QRT & ENS Data Challenge 2026** — 10th / 700+ teams. 15-model GBDT ensemble on 197 features for daily allocation prediction.
-- **Meritis Algo Trading Hackathon 2026** — 2nd / 70+ teams. Event-driven WebSocket trading system, +46.28% risk-adjusted return.
+- **QRT & ENS Data Challenge 2026** : 10th / 700+ teams. 15-model GBDT ensemble on 197 features for daily allocation prediction.
+- **Meritis Algo Trading Hackathon 2026** : 2nd / 70+ teams. Event-driven WebSocket trading system, +46.28% risk-adjusted return.
 
 ## Skills
 
-**Programming:** Python (daily), C, Go, R · **AI/ML:** RAG, FAISS, sentence-transformers, LightGBM, XGBoost · **Backend:** FastAPI, Docker, GitHub Actions, asyncio, PostgreSQL
+**Programming:** Python (daily), C, Go, R · 
+**AI/ML:** RAG, FAISS, sentence-transformers, LightGBM, XGBoost · 
+**Backend:** FastAPI, Docker, GitHub Actions, asyncio, PostgreSQL
 
 ## Contact
 
