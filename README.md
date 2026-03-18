@@ -18,8 +18,8 @@ ENSIMAG student (Applied Mathematics & Computer Science). Focus on AI/ML enginee
 
 ## Skills
 
-**Programming:** Python (daily), C, Go, R · 
-**AI/ML:** RAG, FAISS, sentence-transformers, LightGBM, XGBoost · 
+**Programming:** Python (daily), C, Go, R ·\n 
+**AI/ML:** RAG, FAISS, sentence-transformers, LightGBM, XGBoost ·\n 
 **Backend:** FastAPI, Docker, GitHub Actions, asyncio, PostgreSQL
 
 ## Contact
