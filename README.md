@@ -1,6 +1,6 @@
 # Abdellah Ahnani
 
-**Software Engineering | AI Systems | Quantitative Development**
+**AI/ML | Quantitative Methods**
 
 ENSIMAG student (Applied Mathematics & Computer Science). Focus on AI/ML engineering and quantitative methods.
 
