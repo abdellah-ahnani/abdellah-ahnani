@@ -1,7 +1,5 @@
 # Abdellah Ahnani
 
-**AI/ML | Quantitative Methods**
-
 ENSIMAG student (Applied Mathematics & Computer Science). Focus on AI/ML engineering and quantitative methods.
 
 ## Projects
